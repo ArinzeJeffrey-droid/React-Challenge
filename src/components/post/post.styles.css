@@ -1,0 +1,20 @@
+.post__container {
+    padding: 1em;
+    width: 250px;
+    height: 350px;
+    margin: 12px auto;
+    /* margin-bottom: 50px; */
+    text-align: center;
+    background-color: #494545;
+    color: #fff;
+    border-radius: 10px;
+    margin-bottom: 10px;
+}
+
+.post__container h1 {
+    font-size: 15px;
+}
+
+.post__container p {
+    text-align: justify;
+}
